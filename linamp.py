@@ -12,3 +12,5 @@ def play():
 btn = tk.Button(janela, text="Play", command=play)
 btn.pack()
 janela.mainloop()
+
+# Estou tretando aqui
